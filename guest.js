@@ -9,4 +9,4 @@ prompt.get(['guest'], function(err, result) {
     } else {
         console.log('Commot')
     }
-  });
+});
